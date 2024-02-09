@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    body {
+        background-color:#f1f5f9;
+        /* #f8fafc */
+    }
+}
+
+.slick-slide > div {
+    margin: 0 10px;
+}
+
+/* @import url('https://fonts.googleapis.com/css2?family=Jost:wght@300&family=Poppins:wght@100;200;300;400;500;600;700&family=Raleway:wght@200&display=swap'); */
+
+

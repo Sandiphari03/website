@@ -1,0 +1,13 @@
+.brand-button {
+    transition: transform 0.3s;
+    padding: 15px;
+    margin: 0 10px;
+  }
+  
+  .brand-button:hover {
+    transform: scale(1.1); /* Zoom effect on hover */
+  }
+  
+  .logooo:hover .brand-button:not(:hover) {
+    transform: scale(0.9); /* Reset transform for non-hovered images */
+  }

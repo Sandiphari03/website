@@ -1,0 +1,8 @@
+/* Topnav.css */
+.dropdown-menu {
+    display: none; /* Hide the dropdown by default */
+  }
+  
+  .dropdown-menu.active {
+    display: block; /* Show the dropdown when active */
+  }
